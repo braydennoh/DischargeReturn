@@ -15,10 +15,8 @@ Model the annual maximums using various statistical methods, notably the LogPear
 Visualize the data and the modeling results.
 
 Libraries: pandas, numpy, matplotlib, scipy, re, and os.
-To install the necessary libraries, use the following:
 
 ## Structure
 The dataset (caonillas.txt) is expected to have:
 
-Date: A date in a recognizable format.
-Value: Daily discharge measurements.
+Date: A date in a recognizable format | Value: Daily discharge measurements
