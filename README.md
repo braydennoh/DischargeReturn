@@ -13,10 +13,3 @@ This repository contains a Python script to analyze and model annual maximum dis
 Extract the maximum discharge value for each year.
 Model the annual maximums using various statistical methods, notably the LogPearson method.
 Visualize the data and the modeling results.
-
-Libraries: pandas, numpy, matplotlib, scipy, re, and os.
-
-## Structure
-The dataset [caonillas.txt]('https://github.com/snohatech/DischargeReturn/blob/main/dischargereturn/caonillas.txt') is expected to have:
-
-Date: A date in a recognizable format | Value: Daily discharge measurements
