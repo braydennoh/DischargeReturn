@@ -1,4 +1,4 @@
-#Discharge Data Analysis and Modeling
+# Discharge Data Analysis and Modeling
 This repository contains a Python script to analyze and model annual maximum discharge data.
 
 Purpose
