@@ -1,7 +1,7 @@
 # Discharge Data Analysis and Modeling
 This repository contains a Python script to analyze and model annual maximum discharge data.
 
-<img src="[https://github.com/snohatech/StochasticRiverMigration/blob/main/JupyterNotebook/Img/1.png"](https://github.com/snohatech/DischargeReturn/blob/main/dischargereturn/observedyear.png) width="800" height="640">
+<img src="https://github.com/snohatech/DischargeReturn/blob/main/dischargereturn/observedyear.png" width="800" height="600">
 
 
 ## Read a dataset with daily discharge measurements.
